@@ -210,3 +210,8 @@ My contributions focused on:
 - model experimentation,
 - evaluation and validation workflows.
 
+--- 
+
+## Repository Note
+
+This repository primarily showcases the project methodology, feature-engineering process, and evaluation workflow. Portions of the original coursework implementation and datasets are excluded or simplified.
